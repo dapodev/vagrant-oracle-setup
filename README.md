@@ -70,13 +70,3 @@ SHOW CON_NAME
 -- If you have sample schema installed
 SELECT JSON_OBJECT(*) FROM hr.employees WHERE rownum <= 3;
 ```
-
-Author
-------
-
-[Shinichi Akiyama](https://github.com/shakiyam)
-
-License
--------
-
-[MIT License](https://opensource.org/licenses/MIT)
